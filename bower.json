@@ -1,0 +1,27 @@
+{
+  "name": "purescript-hubot",
+  "authors": [
+    "krdlab <krdlab@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "description": "Type declarations for Hubot",
+  "keywords": [
+    "purescript",
+    "hubot"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/krdlab/purescript-hubot",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-eff": "^0.1.2",
+    "purescript-foreign": "^0.7.2",
+    "purescript-console": "^0.1.1"
+  }
+}
